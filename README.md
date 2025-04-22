@@ -8,7 +8,7 @@ Welcome to a repository focused on providing practical solutions, efficient code
 
 For video tutorials and in-depth solutions to tech problems, visit my YouTube channel:
 
-[Your YouTube Channel](https://www.youtube.com/@YourChannelName)
+[Your YouTube Channel](https://www.youtube.com/channel/UCUZyzd7bUFfpIcyPwHNGiww)
 
 ---
 
@@ -32,4 +32,4 @@ This profile contains a variety of **open-source code solutions** intended to he
 ```yaml
 Languages: [HTML, CSS, JavaScript, Python, Shell Script]
 Tools: [VS Code, Git]
-Platform: Cross-platform (Windows, Linux, macOS)
+Platform: Cross-platform (Windows, Linux)
