@@ -1,16 +1,35 @@
-## Hi there 👋
+# 💻 Tech Solutions | Website Creation | System Tools
 
-<!--
-**Centuriannivas/Centuriannivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to a repository focused on providing practical solutions, efficient code, and ready-to-use tools for anyone needing **tech solutions** and **website creation** assistance.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📺 YouTube Channel
+
+For video tutorials and in-depth solutions to tech problems, visit my YouTube channel:
+
+[Your YouTube Channel](https://www.youtube.com/@YourChannelName)
+
+---
+
+## 🎯 Objective
+
+This profile contains a variety of **open-source code solutions** intended to help solve common **system-level problems** and create **dynamic websites**.
+
+---
+
+## 🔧 Focus Areas
+
+- 🌐 **Website Creation & Development**  
+- 🔧 **Tech Solution Scripts**  
+- 🧩 **System Tools & Logic-Based Solutions**  
+- 🔄 **Automation**
+
+---
+
+## ⚙️ Technologies Used
+
+```yaml
+Languages: [HTML, CSS, JavaScript, Python, Shell Script]
+Tools: [VS Code, Git]
+Platform: Cross-platform (Windows, Linux, macOS)
